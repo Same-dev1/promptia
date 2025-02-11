@@ -1,3 +1,3 @@
-const String appUrl = 'https://uhtiknimutalxapgkteg.supabase.co';
+const String appUrl = '';
 const String anonKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVodGlrbmltdXRhbHhhcGdrdGVnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg2NzQzMzgsImV4cCI6MjA1NDI1MDMzOH0.5h0WmLjQxTOD4iF7dpy3lvljUoNa4K-2WZ3CM_kQACM';
+    '';
